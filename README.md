@@ -16,4 +16,5 @@ Controller Architecture
 
 
 ### More Info
-![Link](https://nglthu.github.io/AI/docs/)
+
+see documentation of robot Controller Architecture [here](docs/robotControllerArcitecture.md)
