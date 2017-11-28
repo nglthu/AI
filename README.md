@@ -13,3 +13,5 @@ Act: Strategies, take actions and impact the environment.
 ### Architecture
 Controller Architecture
 ![alt text](https://github.com/nglthu/AI/blob/master/img/controllerArchitecture.png)
+
+
