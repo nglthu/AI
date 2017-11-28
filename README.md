@@ -17,4 +17,4 @@ Controller Architecture
 
 ### More Info
 
-see documentation of robot Controller Architecture [here](docs/robotControllerArcitecture.md)
+see documentation of robot Controller Architecture [here](robotController/readMe.md)
