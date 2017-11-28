@@ -15,3 +15,5 @@ Controller Architecture
 ![alt text](https://github.com/nglthu/AI/blob/master/img/controllerArchitecture.png)
 
 
+### More Info
+![Link](https://nglthu.github.io/AI/docs/)
