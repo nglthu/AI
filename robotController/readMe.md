@@ -20,15 +20,19 @@ Figure 1: Robot trap
 Top layer Controller
 Middle Layer Controller
 Environment
+
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/robot.png" height="80%" width="80%">
+<img src="https://github.com/nglthu/AI/blob/master/img/robot.png" height="50%" width="50%">
 
 ### Decomposite of the architecture 
+
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/decomposite.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/decomposite.png" height="80%" width="80%">
+<img src="https://github.com/nglthu/AI/blob/master/img/decomposite.png" height="50%" width="50%">
+
 #### Top layer of robot controller
+
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/topLayerController.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/topLayerController.png" height="80%" width="80%">
+<img src="https://github.com/nglthu/AI/blob/master/img/topLayerController.png" height="50%" width="50%">
 
 ```
 if whisker sensor = on
@@ -41,8 +45,9 @@ else steer := right
 end if
 ```
 #### Middle Layer Controller
+
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/middleLayerController.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/middleLayerController.png" height="80%" width="80%">
+<img src="https://github.com/nglthu/AI/blob/master/img/middleLayerController.png" height="50%" width="50%">
 
 
 # Reference
