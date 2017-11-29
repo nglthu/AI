@@ -20,12 +20,15 @@ Figure 1: Robot trap
 Top layer Controller
 Middle Layer Controller
 Environment
-![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png)
+<!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png) -->
+<img src="https://github.com/nglthu/AI/blob/master/img/robot.png" height="80%" width="80%">
 
 ### Decomposite of the architecture 
-![alt text](https://github.com/nglthu/AI/blob/master/img/decomposite.png)
+<!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/decomposite.png) -->
+<img src="https://github.com/nglthu/AI/blob/master/img/decomposite.png" height="80%" width="80%">
 #### Top layer of robot controller
-![alt text](https://github.com/nglthu/AI/blob/master/img/topLayerController.png)
+<!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/topLayerController.png) -->
+<img src="https://github.com/nglthu/AI/blob/master/img/topLayerController.png" height="80%" width="80%">
 
 ```
 if whisker sensor = on
@@ -38,7 +41,9 @@ else steer := right
 end if
 ```
 #### Middle Layer Controller
-![alt text](https://github.com/nglthu/AI/blob/master/img/middleLayerController.png)
+<!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/middleLayerController.png) -->
+<img src="https://github.com/nglthu/AI/blob/master/img/middleLayerController.png" height="80%" width="80%">
+
 
 # Reference
 Agent Architectures and Hierarchical Control in: Poole, D. L., & Mackworth, A. K. (2010). Artificial Intelligence: foundations of computational agents. Cambridge University Press. Available online at http://artint.info/
