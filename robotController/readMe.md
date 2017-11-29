@@ -9,14 +9,18 @@ It always keeps tacking to move the right because the goal is in the right until
 Then, it heads to obstacles again and again.
 ```
 
-![alt text](https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif)
+<!-- ![alt text](https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif) -->
+<img src="https://github.com/favicon.ico" height="100%" width="100%">
+
+
 Figure 1: Robot trap
 
-![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png)
+
 ## Architecture
 Top layer Controller
 Middle Layer Controller
 Environment
+![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png)
 
 ### Decomposite of the architecture 
 ![alt text](https://github.com/nglthu/AI/blob/master/img/decomposite.png)
