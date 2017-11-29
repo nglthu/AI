@@ -10,7 +10,7 @@ Then, it heads to obstacles again and again.
 ```
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif) -->
-<img src="https://github.com/favicon.ico" height="100%" width="100%">
+<img src="https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif" height="100%" width="100%">
 
 
 Figure 1: Robot trap
