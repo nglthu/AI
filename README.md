@@ -16,6 +16,7 @@ An Agent is to act the wold. It has an ability to visualize the world, and make 
 ## Example of Robot trap
 
 ![alt text](https://nglthu.github.io/AI/img/controllerArchitecture.png)
+
 Figure 1. Controller Architecture
 
 The general controller architecture is described in Figure 1 which includes Top layer Controller, Middle Layer Controller and Environment.
