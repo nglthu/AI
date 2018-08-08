@@ -12,7 +12,7 @@ Act: Strategies, take actions and impact the environment.
 
 ### Architecture
 Controller Architecture
-![alt text](https://github.com/nglthu/AI/blob/master/img/controllerArchitecture.png)
+![alt text](https://nglthu.github.io/AI/img/controllerArchitecture.png)
 
 
 #### Robot Controller Hierarchy
@@ -27,7 +27,7 @@ Then, it heads to obstacles again and again.
 ```
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif) -->
-<img src="https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif" height="100%" width="100%">
+<img src="https://nglthu.github.io/AI/mvi/robotTest.gif" height="100%" width="100%">
 
 
 Figure 1: Robot trap
@@ -39,17 +39,17 @@ Middle Layer Controller
 Environment
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/robot.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/robot.png" height="50%" width="50%">
+<img src="https://nglthu.github.io/AI/img/robot.png" height="50%" width="50%">
 
 ##### Decomposite of the architecture 
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/decomposite.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/decomposite.png" height="50%" width="50%">
+<img src="https://nglthu.github.io/AI/img/decomposite.png" height="50%" width="50%">
 
 ###### Top layer of robot controller
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/topLayerController.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/topLayerController.png" height="50%" width="50%">
+<img src="https://nglthu.github.io/AI/img/topLayerController.png" height="50%" width="50%">
 
 ```
 if whisker sensor = on
@@ -64,7 +64,7 @@ end if
 ###### Middle Layer Controller
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/img/middleLayerController.png) -->
-<img src="https://github.com/nglthu/AI/blob/master/img/middleLayerController.png" height="50%" width="50%">
+<img src="https://nglthu.github.io/AI/img/middleLayerController.png" height="50%" width="50%">
 
 ### More Info
 
