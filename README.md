@@ -26,9 +26,10 @@ Figure 1 describe a robot trap. It is started at its position, give it a goal to
 
 
 <!-- ![alt text](https://github.com/nglthu/AI/blob/master/mvi/robotTest.gif) -->
-![alt text](https://nglthu.github.io/AI/mvi/robotTest.gif)
-<!-- 
-<img src="https://nglthu.github.io/AI/mvi/robotTest.gif" height="100%" width="100%"> -->
+<!-- ![alt text](https://nglthu.github.io/AI/mvi/robotTest.gif) -->
+### Run Demo
+
+<img src="/mvi/robotTest.gif" height="100%" width="100%"> 
             Figure 1: Robot trap
 
 ## Architecture
